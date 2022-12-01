@@ -1,0 +1,7 @@
+tensorflow_addons
+tensorflow_io
+tensorflow-model-optimization
+click
+scikit-learn
+librosa
+pandas
